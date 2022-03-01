@@ -53,7 +53,7 @@ export default function Home() {
       <div className="container">
         <div className="text">
         <h1>أول رمز تشفير للمجتمع الفعلي</h1>
-          <p>Sheltere هو رمز تم إنشاؤه بواسطة "Tmkiin". طلب المجتمع رمزًا مميزًا ، لذا ها هو. دعونا ندمج Sheltere ببطء في العملات المشفرة معًا.</p>
+          <p>Sheltere هو رمز تم إنشاؤه بواسطة Tmkiin. طلب المجتمع رمزًا مميزًا ، لذا ها هو. دعونا ندمج Sheltere ببطء في العملات المشفرة معًا.</p>
           <a href="https://pancakeswap.finance/swap#/swap?outputCurrency=0xbed04c4672f2ddc77ea56e2076dda5c5588e6c66">PANCAKESWAP</a>
           <a className="passion" href="#">اشتري الان</a>
           
